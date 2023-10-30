@@ -1,4 +1,5 @@
-live link: lame-owl.surge.sh
+live link: https://lame-owl.surge.sh/
+
 features: 
 * user can see food item along with price
 * user can see offer when click offer

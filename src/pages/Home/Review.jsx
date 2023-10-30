@@ -1,8 +1,10 @@
+import Fader from "../../Shared/Fader";
 
 const Review = () => {
     return (
         <div className="p-4">
-            <h2 className="text-center text-[#594ef3] text-3xl font-bold my-10">Customers Review</h2>
+            {/* use fade in animation using Fader components */}
+            <Fader text='Customers Review'></Fader>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 my-10">
                 {/* review person 1 */}
                 <div data-aos='flip-right' className="card card-compact bg-base-100 shadow-xl">

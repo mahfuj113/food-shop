@@ -7,7 +7,7 @@ const FoodItems = () => {
     return (
         <div className="max-w-7xl mx-auto mt-20">
             {/* use Fader components for fade in and fade out animation */}
-            <Fader className="text-4xl text-center my-4" text='Our Foods'></Fader>
+            <Fader text='Our Foods'></Fader>
             {/* This is our foods components and display 6 food item */}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 p-4">
             {
