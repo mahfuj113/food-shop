@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "653b6ffbf1131d655bdd3d78",
+        "idMeal": "52803",
+        "strMeal": "Beef Wellington",
+        "strDrinkAlternate": null,
+        "strCategory": "Beef",
+        "strArea": "British",
+        "img": "https://www.themealdb.com/images/media/meals/vvpprx1487325699.jpg",
+        "price": "$24.99"
+    },
+    {
+        "_id": "653b6ffbf1131d655bdd3d79",
+        "idMeal": "52807",
+        "strMeal": "Baingan Bharta",
+        "strDrinkAlternate": null,
+        "strCategory": "Vegetarian",
+        "strArea": "Indian",
+        "img": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+        "price": "$13.99"
+    },
+    {
+        "_id": "653b6ffbf1131d655bdd3d7a",
+        "idMeal": "52812",
+        "strMeal": "Beef Brisket Pot Roast",
+        "strDrinkAlternate": null,
+        "strCategory": "Beef",
+        "strArea": "American",
+        "img": "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg",
+        "price": "$19.99"
+    },
+    {
+        "_id": "653b6ffbf1131d655bdd3d7b",
+        "idMeal": "52824",
+        "strMeal": "Beef Sunday Roast",
+        "strDrinkAlternate": null,
+        "strCategory": "Beef",
+        "strArea": "British",
+        "img": "https://www.themealdb.com/images/media/meals/ssrrrs1503664277.jpg",
+        "price": "$21.99"
+    },
+    {
+        "_id": "653b6ffbf1131d655bdd3d7c",
+        "idMeal": "52826",
+        "strMeal": "Braised Beef Chilli",
+        "strDrinkAlternate": null,
+        "strCategory": "Beef",
+        "strArea": "Mexican",
+        "img": "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg",
+        "price": "$16.99"
+    },
+    {
+        "_id": "653b6ffbf1131d655bdd3d7d",
+        "idMeal": "52834",
+        "strMeal": "Beef Stroganoff",
+        "strDrinkAlternate": null,
+        "strCategory": "Beef",
+        "strArea": "Russian",
+        "img": "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg",
+        "price": "$18.99"
+    }
+]
